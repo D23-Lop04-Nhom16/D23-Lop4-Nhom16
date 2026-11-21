@@ -11,3 +11,13 @@ wheels/
 
 # dataset 
 /data_collection/
+/src/d23_lop4_nhom16/video_test/
+/src/d23_lop4_nhom16/features/ 
+/src/d23_lop4_nhom16/processed_features/
+
+# Large generated feature tables (exceed GitHub's 100 MB file limit)
+/src/d23_lop4_nhom16/features/hog_features.csv
+/src/d23_lop4_nhom16/features/hog_features_frame_interval.csv
+/src/d23_lop4_nhom16/features/new_hog.csv
+/src/d23_lop4_nhom16/postgres/keyframe_features.csv
+/src/d23_lop4_nhom16/processed_features/hog_features.csv
