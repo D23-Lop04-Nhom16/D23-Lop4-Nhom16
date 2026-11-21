@@ -5,6 +5,17 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "numpy>=1.26.4",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "psycopg2-binary>=2.9.13",
+    "psycopg[binary]>=3.3.9",
+    "scikit-image>=0.26.0",
+    "scikit-learn>=1.9.1",
+    "sqlalchemy>=2.1.6",
+    "streamlit>=1.67.0",
+    "ultralytics>=8.4.173",
+    "umap-learn>=0.5.12",
     "vid-prepper>=0.1.2",
 ]
 
